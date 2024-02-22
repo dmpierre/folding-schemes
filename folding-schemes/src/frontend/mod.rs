@@ -1,3 +1,4 @@
+#[cfg(feature = "circom-frontend")]
 pub mod circom;
 
 use crate::Error;
